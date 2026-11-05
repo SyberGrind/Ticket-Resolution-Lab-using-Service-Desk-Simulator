@@ -1,0 +1,2 @@
+# Ticket-Resolution-Lab-using-Service-Desk-Simulator
+Completed 8 handson IT support ticket simulations using ServiceDesk Simulator, troubleshooting real world scenarios involving password resets, network connectivity, software issues, Active Directory, and user support. Demonstrated practical help desk skills, systematic troubleshooting, incident resolution in a simulated corporate IT environment.
