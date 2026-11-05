@@ -80,27 +80,43 @@ This video provides a complete walkthrough of all eight ServiceDesk Simulator ti
 ## 📸📚 Ticket Summary Screenshots
 
 **Ticket 1: – Tom Wilson: Cloud Drive Sync Errors & Duplicate Files.**
+<br><img width="1364" height="581" alt="T1 - Tom Wilson" src="https://github.com/user-attachments/assets/1dde8137-d19d-4e3b-a7e2-d1fa298d2a1a" />
+>
 <br>
 
 **Ticket 2: – Chris Nguyen: Laptop Disk Full – Cannot Save Any Files.**
+<br><img width="1364" height="587" alt="T2 - Chris Nguyen" src="https://github.com/user-attachments/assets/e1eb5319-fa10-4034-a8b4-3ef21e6ce050" />
+>
 <br>
 
 **Ticket 3 – Ivana Petrova: No Internet Connectivity While Working from Home.**
+<br><img width="1364" height="591" alt="T3 - Ivana Petrova" src="https://github.com/user-attachments/assets/2ff403b9-3414-4eec-97a0-a925291f7d7a" />
+>
 <br>
 
 **Ticket 4 – Michael Brown: Laptop Screen Stays Black with Blinking Power Light.**
+<br><img width="1364" height="594" alt="T4 - Micheal Brown" src="https://github.com/user-attachments/assets/f8cec35a-38c6-4271-82bf-d43631cbdd40" />
+>
 <br>
 
 **Ticket 5 – Nina Patel: Cannot Find Team Files on New Laptop.**
+<br><img width="1363" height="589" alt="T5 - Nina Patel" src="https://github.com/user-attachments/assets/93c5775e-1d52-4ad4-b542-6fd007943a11" />
+>
 <br>
 
 **Ticket 6 – Chris Nguyen: Cannot Connect to Floor 2 Printer.**
+<br><img width="1364" height="583" alt="T6 - Chris Nguyen" src="https://github.com/user-attachments/assets/b60c9b43-08ab-4080-a99b-2544d9d2d5c2" />
+>
 <br>
 
 **Ticket 7 – Kevin Zhang: Second Monitor Displays a Black Screen.**
+<br><img width="1364" height="490" alt="T7 - Kevin Zhang" src="https://github.com/user-attachments/assets/48a948a3-a966-4b1a-b66b-33efa15005f9" />
+>
 <br>
 
 **Ticket 8 – Beth Collins: Frequent Network/VPN Disconnections While Working from Home.**
+<br><img width="1364" height="600" alt="T8 - Beth Collins" src="https://github.com/user-attachments/assets/6d0a573a-e7bc-4734-989b-a8f3c28bdfd8" />
+>
 <br>
 
 ## 📹 Full Video Demonstration
