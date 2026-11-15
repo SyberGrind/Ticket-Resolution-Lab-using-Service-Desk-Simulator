@@ -6,7 +6,7 @@ This project documents my completion of an 8-ticket IT Help Desk Simulation Lab 
 
 ## 📹 Full Video Demonstration
 
-🎥 **46-Minute Full Lab Demonstration:** [YouTube — 8-Ticket IT Help Desk Simulation Lab](YOUR_YOUTUBE_VIDEO_LINK)
+🎥 **46-Minute Full Lab Demonstration:** [YouTube — 8-Ticket IT Help Desk Simulation Lab](https://youtu.be/gQYO5CMQ4bk)
 
 This video provides a complete walkthrough of all eight ServiceDesk Simulator ticket scenarios, demonstrating practical IT support troubleshooting and incident resolution. The lab covers cloud drive synchronisation, disk space management, network connectivity, laptop startup issues, network drive mapping, printer configuration, secondary display troubleshooting, and corporate VPN disconnections. Each scenario showcases a systematic troubleshooting approach, appropriate technical solutions, and verification of successful incident resolution.
 
@@ -73,7 +73,7 @@ The primary objectives of this project were to:
 
 ## 📹 Full Video Demonstration
 
-🎥 **46-Minute Full Lab Demonstration:** [YouTube — 8-Ticket IT Help Desk Simulation Lab](YOUR_YOUTUBE_VIDEO_LINK)
+🎥 **46-Minute Full Lab Demonstration:** [YouTube — 8-Ticket IT Help Desk Simulation Lab](https://youtu.be/gQYO5CMQ4bk)
 
 This video provides a complete walkthrough of all eight ServiceDesk Simulator ticket scenarios, demonstrating practical IT support troubleshooting and incident resolution. The lab covers cloud drive synchronisation, disk space management, network connectivity, laptop startup issues, network drive mapping, printer configuration, secondary display troubleshooting, and corporate VPN disconnections. Each scenario showcases a systematic troubleshooting approach, appropriate technical solutions, and verification of successful incident resolution.
 
@@ -121,7 +121,7 @@ This video provides a complete walkthrough of all eight ServiceDesk Simulator ti
 
 ## 📹 Full Video Demonstration
 
-🎥 **46-Minute Full Lab Demonstration:** [YouTube — 8-Ticket IT Help Desk Simulation Lab](YOUR_YOUTUBE_VIDEO_LINK)
+🎥 **46-Minute Full Lab Demonstration:** [YouTube — 8-Ticket IT Help Desk Simulation Lab](https://youtu.be/gQYO5CMQ4bk)
 
 This video provides a complete walkthrough of all eight ServiceDesk Simulator ticket scenarios, demonstrating practical IT support troubleshooting and incident resolution. The lab covers cloud drive synchronisation, disk space management, network connectivity, laptop startup issues, network drive mapping, printer configuration, secondary display troubleshooting, and corporate VPN disconnections. Each scenario showcases a systematic troubleshooting approach, appropriate technical solutions, and verification of successful incident resolution.
 
